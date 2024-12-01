@@ -3,5 +3,5 @@
 ## Technologies used
 PHP,
 Laravel 11,
-Tailwind CSS
+Tailwind CSS,
 SQLite
