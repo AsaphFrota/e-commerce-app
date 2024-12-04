@@ -1,10 +1,8 @@
 # E-COMMERCE WEB APP
 
----
+## Technologies used
 
-## Tecnologies
-
-Laravel 11
-Livewire 3
-Filament 3
-Tailwind CSS
+PHP,
+Laravel 11,
+Tailwind CSS,
+SQLite
