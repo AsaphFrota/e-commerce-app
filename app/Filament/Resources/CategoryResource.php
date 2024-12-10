@@ -53,6 +53,7 @@ class CategoryResource extends Resource
 
                     FileUpload::make('image')
                         ->image()
+                        ->dehydrated()
                         ->directory('categories'),
 
                     Toggle::make('is_active')
